@@ -1,0 +1,6 @@
+
+torch-geometric
+biopython
+fair-esm
+tqdm
+dgl
